@@ -1,2 +1,95 @@
 start.io, 189343221, DIRECT
 google.com, pub-5027589844456961, DIRECT, f08c47fec0942fa0
+pubnative.net, 1007349, reseller, d641df8625486a7b
+verve.com, 15503, reseller, 0c8f5958fc2d6270
+pubnative.net, 1008289, reseller, d641df8625486a7b
+pubmatic.com, 161162, reseller, 5d62403b186f2ace
+conversantmedia.com, 100339, reseller, 03113cd04947736d
+appnexus.com, 4052, reseller
+opera.com, pub5925993551616, reseller, 55a0c5fd61378de3
+rubiconproject.com, 24400, direct, 0bfd66d529a55807
+video.unrulymedia.com, 2464975885, reseller
+target.my.com, 13033031, reseller
+themediagrid.com, 6xgfyq, direct, 35d5010d7789b49d
+acexchange.co.kr, 1746357004, reseller
+outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, reseller
+appnexus.com, 7597, reseller, f5ab79cb980f11d1
+zmaticoo.com, 114122, reseller
+pubmatic.com, 156517, reseller, 5d62403b186f2ace
+webeyemob.com, 80067, reseller
+openx.com, 540679900, reseller, 6a698e2ec38604c6
+pubmatic.com, 158060, reseller, 5d62403b186f2ace
+conversantmedia.com, 100358, reseller, 03113cd04947736d
+smartadserver.com, 4573, reseller, 060d053dcf45cbf3
+outbrain.com, 00dbc7a68d0cd51d55ac0aa9e1918c9a34, reseller
+pubmatic.com, 163476, reseller, 5d62403b186f2ace
+gitberry.com, 405100012, reseller
+rubiconproject.com, 24362, reseller, 0bfd66d529a55807
+pubnative.net, 1008770, reseller, d641df8625486a7b
+rubiconproject.com, 25978, reseller, 0bfd66d529a55807
+rubiconproject.com, 26156, reseller, 0bfd66d529a55807
+rubiconproject.com, 24400, reseller, 0bfd66d529a55807
+rubiconproject.com, 15278, reseller, 0bfd66d529a55807
+openx.com, 559912325, reseller, 6a698e2ec38604c6
+lijit.com, 488437, reseller, fafdf38b16bf6b2b
+openx.com, 538959099, reseller, 6a698e2ec38604c6
+pubmatic.com, 164079, reseller, 5d62403b186f2ace
+rubiconproject.com, 17960, reseller, 0bfd66d529a55807
+appnexus.com, 1019, reseller, f5ab79cb980f11d1
+triplelift.com, 14127, reseller, 6c33edb13117fd86
+sharethrough.com, 5eq7zf1q, reseller, d53b998a7bd4ecd2
+openx.com, 540274407, reseller, 6a698e2ec38604c6
+smaato.com, 1100047713, reseller, 07bcf65f187117b4
+smartadserver.com, 4625, reseller, 060d053dcf45cbf3
+axonix.com, 59054, reseller, bc385f2b4a87b721
+conversantmedia.com, 100246, reseller, 03113cd04947736d
+google.com, pub-8428973207370809, direct, f08c47fec0942fa0
+rubiconproject.com, 15044, reseller, 0bfd66d529a55807
+lijit.com, 400766, reseller, fafdf38b16bf6b2b
+freewheel.tv, 1138513, reseller
+onetag.com, 6049d2c92852238, reseller
+loopme.com, 11318, reseller, 6c8d5f95897a5a3b
+sabio.us, 100125, reseller, 96ed93aaa9795702
+pubmatic.com, 160145, reseller, 5d62403b186f2ace
+freewheel.tv, 1606620, reseller
+freewheel.tv, 1606633, reseller
+appnexus.com, 2007, reseller
+smartadserver.com, 4342, reseller, 060d053dcf45cbf3
+advlion.com, 3144, reseller
+e-planning.net, 9e13ae05de78d045, reseller, c1ba615865ed87b2
+trustedstack.com, ts677pgy3, reseller
+openx.com, 559911747, reseller, 6a698e2ec38604c6
+yieldmo.com, 3377199372461613093, reseller
+sharethrough.com, p1zsrney, reseller, d53b998a7bd4ecd2
+themediagrid.com, fwn84j, direct, 35d5010d7789b49d
+contextweb.com, 563551, reseller, 89ff185a4c4e857c
+rubiconproject.com, 26184, reseller, 0bfd66d529a55807
+mediafuse.com, 720, reseller
+bidedge.io, 12427296, reseller
+conversantmedia.com, 100792, reseller, 03113cd04947736d
+bidedge.io, 12500436, reseller
+verve.com, 15290, reseller, 0c8f5958fc2d6270
+copper6.com, 764121, reseller
+appush.com, 1305002, reseller
+limpid.tv, 203711, reseller
+nativo.com, 5958, reseller, 59521ca7cc5e9fee
+pubmatic.com, 156500, reseller, 5d62403b186f2ace
+openx.com, 540709535, reseller, 6a698e2ec38604c6
+zetaglobal.net, 989, reseller
+risecodes.com, 66b9eb5035bff70001ca7bf8, reseller
+conversantmedia.com, 100713, reseller, 03113cd04947736d
+conversantmedia.com, 100706, reseller, 03113cd04947736d
+media.net, 8cu12aq1y, reseller
+smaato.com, 1100057444, reseller, 07bcf65f187117b4
+bematterfull.com, 89720975345, reseller
+rubiconproject.com, 27052, reseller, 0bfd66d529a55807
+rubiconproject.com, 25482, reseller, 0bfd66d529a55807
+pubmatic.com, 163120, reseller, 5d62403b186f2ace
+playdigo.com, 2048, reseller, 92011346d63d3c30
+selectmedia.asia, 0f305c6460e4a8b30154d9cc, reseller, e365c871a27c655d
+adform.com, 2919, reseller, 9f5210a2f0999e32
+media.net, 8cuh5vf7j, reseller
+rubiconroject.com, 26144, reseller, 0bfd66d529a55807
+thebrave.io, 1234765, reseller, c25b2154543746ac
+appnexus.com, 12878, reseller, f5ab79cb980f11d1
+rubiconproject.com, 24752, reseller, 0bfd66d529a55807
